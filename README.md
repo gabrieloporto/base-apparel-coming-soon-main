@@ -19,8 +19,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 
-- Solution: [Add solution URL here](https://your-solution-url.com)
-- Live Site: [Add live site URL here](https://your-live-site-url.com)
+- Solution: [solution](https://github.com/gabrieloporto/base-apparel-coming-soon-main)
+- Live Site: [live site](https://gabrieloporto.github.io/base-apparel-coming-soon-main/)
 
 ## My process
 
